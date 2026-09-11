@@ -148,6 +148,10 @@ git diff upstream/production upstream/master -- '*/versions' '*/latest-version' 
 - **One version bump per commit**, with the `issue:` trailer — see
   [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Planning process
+
+This repo does not use a spec-driven development (SDD) framework.
+
 ## See also
 
 - [README.md](README.md) — what this repo is and how to add a version
