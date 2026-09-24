@@ -29,7 +29,7 @@ magento/2/
   patches/                legacy Magento patches + .md5 sidecars; no live consumer found
 shopware/6/               pubfiles-only: manifests here, tarballs on pubfiles
 sylius/1/
-wordpress/{4,5,6}/
+wordpress/{4,5,6,7}/
 wordpress/4/plugins/      orphaned — nothing fetches this directory
 wordpress/5/plugins/      BigCommerce OAuth connector zips; live, see Conventions
 .gitattributes            routes *.tar.gz through git-LFS
